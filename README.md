@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Eli</h1>
-<h3 align="center">Software engineer & security researcher</h3>
 
 - 🔭 I’m currently working on [Transcend Consent Manager](https://transcend.io/consent/)
 - 🕊 I write open source software in my free time
