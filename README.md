@@ -4,4 +4,4 @@
 - 🔭 I’m currently working on [Transcend Consent Manager](https://transcend.io/consent/)
 - 💬 Ask me about **web security**
 
-![github stats](https://github-readme-stats.vercel.app/api?username=eligrey&show_icons=true&locale=en)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=eligrey&show_icons=true&locale=en" alt="eligrey" /></p>
