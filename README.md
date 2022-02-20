@@ -8,16 +8,13 @@
 
 ### Enemies
 
-- ☠️ Mortality
-- ⚖️ Inequality
-- ❓ Ignorance
-- 😡 Hate
+☠️&nbsp;Mortality&nbsp;&nbsp;&nbsp;&nbsp;⚖️&nbsp;Inequality&nbsp;&nbsp;&nbsp;&nbsp;❓&nbsp;Ignorance&nbsp;&nbsp;&nbsp;&nbsp;😡&nbsp;Hate
 
 ### Goals
 
-- 🌎 Defeat my enemies
-- 🧠 Live forever through brain scanning and simulation
-- 🌌 Optimize galactic entropy to keep us all alive as long as possible
+- [ ] 🌎 Defeat my enemies
+- [ ] 🧠 Live forever through brain scanning and simulation
+- [ ] 🌌 Optimize galactic entropy to keep us all alive as long as possible
 
 <br/>
 
