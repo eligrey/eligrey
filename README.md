@@ -8,7 +8,7 @@
 
 ### Enemies
 
-☠️&nbsp;&nbsp;Mortality&nbsp;&nbsp;&nbsp;&nbsp;◦&nbsp;&nbsp;&nbsp;&nbsp;⚖️&nbsp;&nbsp;Inequality&nbsp;&nbsp;&nbsp;&nbsp;◦&nbsp;&nbsp;&nbsp;&nbsp;😡&nbsp;&nbsp;Hate
+☠️&nbsp;&nbsp;Mortality&nbsp;&nbsp;&nbsp;&nbsp;◦&nbsp;&nbsp;&nbsp;&nbsp;🤔&nbsp;&nbsp;Ignorance&nbsp;&nbsp;&nbsp;&nbsp;◦&nbsp;&nbsp;&nbsp;&nbsp;😡&nbsp;&nbsp;Hate
 
 ### Goals
 
