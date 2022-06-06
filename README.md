@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eli</h1>
 
-- 🔭 I’m currently working on [Transcend Consent Manager](https://transcend.io/consent/)
+- 🔭 I’m currently working on [Transcend Consent Manager](https://docs.transcend.io/docs/consent/capabilities)
 - 🕊 I write open source software in my free time
 - 💬 Ask me about **web security**
 
