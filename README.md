@@ -13,7 +13,7 @@
 ### Goals
 
 - [ ] 🌎 Defeat my enemies
-- [ ] 🧠 Live forever through brain scanning and simulation
+- [ ] 🧠 Live until the heat death through brain scanning and simulation
 - [ ] 🌌 Optimize galactic entropy to keep us all alive as long as possible
 
 <br/>
