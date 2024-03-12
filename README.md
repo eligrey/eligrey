@@ -6,15 +6,15 @@
 
 ## My Stats
 
-### Enemies
-
-☠️&nbsp;&nbsp;Mortality&nbsp;&nbsp;&nbsp;&nbsp;◦&nbsp;&nbsp;&nbsp;&nbsp;🤔&nbsp;&nbsp;Ignorance&nbsp;&nbsp;&nbsp;&nbsp;◦&nbsp;&nbsp;&nbsp;&nbsp;😡&nbsp;&nbsp;Hate&nbsp;&nbsp;&nbsp;&nbsp;◦&nbsp;&nbsp;&nbsp;&nbsp;😔&nbsp;&nbsp;Ennui
-
 ### Goals
 
 - [ ] 🌎 Defeat my enemies
 - [ ] 🧠 Live until the heat death of our local galactic group through brain scanning and simulation
 - [ ] 🌌 Optimize galactic entropy to keep us all alive as long as possible
+
+### Enemies
+
+☠️&nbsp;&nbsp;Mortality&nbsp;&nbsp;&nbsp;&nbsp;◦&nbsp;&nbsp;&nbsp;&nbsp;🤔&nbsp;&nbsp;Ignorance&nbsp;&nbsp;&nbsp;&nbsp;◦&nbsp;&nbsp;&nbsp;&nbsp;😡&nbsp;&nbsp;Hate&nbsp;&nbsp;&nbsp;&nbsp;◦&nbsp;&nbsp;&nbsp;&nbsp;😔&nbsp;&nbsp;Ennui
 
 <br/>
 
