@@ -10,7 +10,7 @@
 
 - [ ] 🌎 Defeat my enemies
 - [ ] 🧠 Live until the heat death of our local galactic group through brain scanning and simulation
-- [ ] 🌌 Optimize resource sharing across our local galactic group to keep us all alive as long as possible
+- [ ] 🌌 Optimize resource sharing, collection, and usage across our local galactic group to keep us all alive as long as possible
 
 ### Enemies
 
