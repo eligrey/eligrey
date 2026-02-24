@@ -1,6 +1,6 @@
 <h1>Hi, I'm Eli 👋</h1>
 
-- 🔭 I’m currently working on autonomous privacy governance
+- 🔭 I’m currently working on autonomous data governance
 - 🕊 I write open source software in my free time
 - 💬 Ask me about **web security**
 
