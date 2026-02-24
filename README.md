@@ -16,6 +16,3 @@
 
 ☠️&nbsp;&nbsp;Mortality&nbsp;&nbsp;&nbsp;&nbsp;◦&nbsp;&nbsp;&nbsp;&nbsp;😡&nbsp;&nbsp;Hate&nbsp;&nbsp;&nbsp;&nbsp;◦&nbsp;&nbsp;&nbsp;&nbsp;😔&nbsp;&nbsp;Ennui
 
-<br/>
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=eligrey&show_icons=true&locale=en)](https://dangerous.link/virus.exe)
